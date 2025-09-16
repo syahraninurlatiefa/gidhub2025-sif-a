@@ -2,3 +2,7 @@ pada latihan 1 ini saya sudah;
 1. membuat akun github
 2. membuat repository
 3. melakukan edit pada file readme.md
+
+pada latihan ini juga saya sudah;
+a. membuat file tahin1.txt
+b. kemudian membuat branch
