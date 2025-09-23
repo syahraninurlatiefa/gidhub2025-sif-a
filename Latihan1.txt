@@ -8,3 +8,4 @@ a. membuat file tahin1.txt
 b. kemudian membuat branch
 
 Teks ini dibuat oleh augury
+teks dari anggota tim
